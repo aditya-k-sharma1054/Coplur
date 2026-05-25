@@ -1,0 +1,22 @@
+
+Assignment 5
+
+1) Practise Pandas Series
+	Create a Pandas Series from Dictionary 
+	Create a Pandas Series from Lists 
+	Access the elements of a Series in Pandas  
+2) DataFrames
+	Make a Pandas DataFrame with a two-dimensional Python list 
+	Create DataFrame from Python dict 
+	Create Pandas dataframe using list of lists 
+	Create a Pandas dataframe using list of tuples 
+	Create a Pandas DataFrame from List of Dicts 
+3)Data iteration
+	Different ways to iterate over rows in Pandas Dataframe 
+	Selecting rows in pandas DataFrame based on conditions 
+	Select any row from a Dataframe using iloc[]
+	Limited rows selection with given column
+	Drop rows from the dataframe based on certain condition applied on a column 
+	Insert row at given position in Pandas Dataframe 
+	Create a list from rows in Pandas dataframe 
+
