@@ -1,0 +1,14 @@
+Assignment 8
+
+
+ 1) Convert a series of date-strings to a timeseries?
+
+2)Create two DataFrames, df1 and df2, with a common column (e.g., 'ID'). 
+
+>Perform an inner merge on this common column and display the resulting DataFrame.
+>Perform a left join of df1 and df2 on the 'ID' column. Explain how missing values are handled in the resulting DataFrame. Right Join and Index-Based Join.
+>Perform a right join using pd.merge() on a common column, then perform a join using df.join() based on the index. Compare the results. Merging with Multiple Keys.
+
+3) Create three DataFrames. Vertically concatenate two of them using pd.concat(), then merge the resulting DataFrame with the third DataFrame on a common key. T Understand join() vs. merge().
+
+Also Explain the primary differences between df.join() and pd.merge(),
