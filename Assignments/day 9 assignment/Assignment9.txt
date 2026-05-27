@@ -1,0 +1,5 @@
+1) Explore more regex patterns Eg. The regex pattern used to validate email 
+addresses, mobile no, string, and more 
+2) Explore more datetime function and uses in pandas 
+3) Import an meaningful csv file for data analysis and perform data cleaning, 
+and analysis for meaningful output
