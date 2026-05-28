@@ -1,0 +1,4 @@
+1) Replace Nan with 0 and Interchange 3 rows and 3 columns of 2D array [[6, -8, 73, -110], [np.nan, -8, 0, 94]] 
+2) Move axes of 3D array to new positions 
+3) Replace NaN values with average of columns 
+4) Replace negative value with zero in numpy array using replace
