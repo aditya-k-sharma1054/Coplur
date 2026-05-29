@@ -1,0 +1,6 @@
+1) Combining a one and a two-dimensional NumPy Array 
+2) Flatten a 2d numpy array into 1d array 
+3) Reverse a numpy array 
+4) Practice operations like Get the maximum value from given array Get the minimum value from given array Find the number of rows and columns of a given array using NumPy Select the elements from a given array (each element and specific element) Find the sum of values in a 2D array using for loop Adding, Subtracting, multiplying, dividing arrays in Numpy 
+5) Iterate 3D array using for loop and nditer 
+6) Study the following program import numpy as np # create a numpy 1d-arrays arr1 = np.array([3, 4]) arr2 = np.array([1, 0]) # find average of NumPy arrays avg = (arr1 + arr2) / 2 print("Average of NumPy arrays:\n", avg) -> Calculate average mean median mode values of two NumPy 2d-arrays
