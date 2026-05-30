@@ -1,0 +1,15 @@
+
+1) Create numpy array and perform following operation 
+> Convert 1D array to 2D 
+> Print Array Attributes(Like shape, dimenssion, data type, itemsize) 
+> Create a 3×3 NumPy array of all 9 
+> Create a 1D array of 10 evenly spaced values between 25 and 125 
+> Convert a Python list into a NumPy array 
+> Reverse a 1D NumPy array 
+> Create a 4×4×3 array and extract value at its second set, first row and last column 
+> Create a 4×4 and Extract Odd Rows and Even Columns 
+> Slice the first two rows and first two columns of econd set from a 4×4×3 array 
+> Replace all odd numbers in a NumPy array with -1 by itterating using for loop [[23, 56, 78, 93], [71, 82,13, 24]] 
+> Get the indices of non-zero elements in an array [1, 0, 2, 0, 3, 0, 4] 
+> Perform arithmetic operations on two NumPy arrays element-wise Add two NumPy arrays element by element. Multiply two NumPy arrays element by element. 
+> Write a code to compute the dot product of two NumPy arrays arr1 = [15, 20, 25] arr2 = [10,40,37]
