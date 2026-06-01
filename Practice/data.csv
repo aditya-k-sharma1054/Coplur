@@ -1,11 +1,2 @@
-Name,email,mobile
-ABC,email@som.com,998877665543
-XYZ,qwsa@saa.com,534522522523
-ABC2,email@som.com,998877665543
-,qwsa@saa.com,534522522523
-ABC3,email@som.com,998877665543
-XYZ3,,534522522523
-ABC4,email@som.com,998877665543
-XYZ4,,534522522523
-ABC5,email@som.com,998877665543
-XYZ5,,534522522523
+1,2,3,4
+5,6,7,8
