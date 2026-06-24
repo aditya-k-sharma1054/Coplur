@@ -29,12 +29,12 @@ docker run --rm date-app
 
 ```text
 Current Python Version: 3.12.13
-Current Date & Time: 2026-06-24 21:22:54.704305
+Current Date & Time: 2026-06-11 19:22:54.704305
 ```
 
 ## Screenshot
 
-![Docker Output](docker-ouput.png)
+![Docker Output](docker-output.png)
 
 ## What I Learned
 
